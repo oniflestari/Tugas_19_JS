@@ -1,0 +1,12 @@
+var string1 = 'Semangat...';
+var string2 = "*";
+console.log(string1.repeat(5));
+console.log(string2.repeat(5));
+console.log(string2.repeat(25));
+console.log(string2.repeat(50));
+console.log(string2.repeat(75));
+console.log(string2.repeat(100));
+console.log(string2.repeat(75));
+console.log(string2.repeat(50));
+console.log(string2.repeat(25));
+console.log(string2.repeat(5));
